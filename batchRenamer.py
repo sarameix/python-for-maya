@@ -8,11 +8,11 @@ string.
 
 Instructions:
 - Start the program by using the following format:
-	python sam_w04_01.py directoryPath oldString newString 
+	python batchRenamer.py directoryPath oldString newString 
 - This is an example of how a Windows user would use this script:
-	python sam_w04_01.py D:\Documents\ bb man
+	python batchRenamer.py D:\Documents\ bb man
 - This is an example of how a Mac user would use this script:
-	python sam_w04_01.py /Users/sarameixner/Documents bb man
+	python batchRenamer.py /Users/sarameixner/Documents bb man
 
 Notes:
 -If an incorrect amount of command line arguments is entered, an error message will be printed indicating the proper format, and the program will end.
